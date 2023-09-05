@@ -1,2 +1,4 @@
 # Calculator
 Calculator by using Html, Css and Javascript
+
+A calculator is a small electronic or digital device used for performing mathematical calculations. It typically includes functions for addition, subtraction, multiplication, and division, making it a valuable tool for solving numerical equations and managing finances. Modern calculators often come with advanced features like scientific functions, memory storage, and a user-friendly interface, enhancing their versatility and utility. They are widely used in various fields, including education, finance, engineering, and everyday tasks that involve numerical computation. Calculators have become an indispensable tool for simplifying and expediting mathematical operations.
